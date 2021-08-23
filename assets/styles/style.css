@@ -109,7 +109,7 @@ body{
     gap:20px
 }
 
-@media only screen and (min-width: 480px) {
+@media only screen and (min-width: 520px) {
     .game-board{
         max-width: 700px;
 
