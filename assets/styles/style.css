@@ -111,15 +111,15 @@ body{
 
 @media only screen and (min-width: 480px) {
     .game-board{
-        max-width: 400px;
+        max-width: 500px;
 
         grid-template: 1fr 1fr 1fr 1fr 1fr  / 1fr 1fr 1fr 1fr;
         gap: 20px;
       
     }
     .card{
-        width: 80px;
-        height: 80px;}
+        width: 100px;
+        height: 100px;}
     .icon
 {
     width: 40px;
