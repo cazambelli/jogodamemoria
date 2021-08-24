@@ -25,8 +25,8 @@ body{
 }
 
 .card{
-    width: 140px;
-    height: 140px;
+    width: 150px;
+    height: 150px;
     position: relative;
 
     -webkit-transform-style: preserve-3d;
@@ -49,10 +49,10 @@ body{
 }
 
 .icon{
-    width: 120px;
-    height: 120px;
-    max-width: 120px;
-    max-height: 120px;
+    width: 130px;
+    height: 130px;
+    max-width: 130px;
+    max-height: 130px;
    
     
 }
@@ -118,8 +118,8 @@ body{
       
     }
     .card{
-        width: 120px;
-        height: 120px;}
+        width: 130px;
+        height: 130px;}
     .icon
 {
     width: 40px;
