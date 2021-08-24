@@ -25,77 +25,6 @@ body{
 }
 
 .card{
-    width: 150px;
-    height: 150px;
-    position: relative;
-
-    -webkit-transform-style: preserve-3d;
-    -webkit-transition: transform .5s;
-   transform-style: preserve-3d;
-    transition: transform .5s;
-}
-
-.card_back, .card_front{
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 20px;
-    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.45);
-    -webkit-backface-visibility: hidden;
-    backface-visibility: hidden;
-}
-
-.icon{
-    width:100px;
-    height: 100px;
-    max-width: 100px;
-    max-height: 100px;
-   
-    
-}
-
-.flip{
-    -webkit-transform: rotateY(180deg);
-    transform: rotateY(180deg);
-}
-
-
-.card_front{
-    -webkit-transform: rotateY(180deg);
-    transform: rotateY(180deg);
-    background-color: #101c2c;
-
-}
-
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-
-body{
-    font-family: 'Righteous', sans-serif;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    height: 100vh;
-    background-color: #c7cdd3;
-}
-
-.banner{
-    margin-top: 25px;
-    
-}
-.banner>img{
-    max-width: 300px;
-}
-
-.card{
     width: 120px;
     height: 120px;
     position: relative;
@@ -120,10 +49,10 @@ body{
 }
 
 .icon{
-    width:80px;
-    height: 80px;
-    max-width: 80px;
-    max-height: 80px;
+    width:100px;
+    height: 100px;
+    max-width: 120px;
+    max-height: 120px;
    
     
 }
