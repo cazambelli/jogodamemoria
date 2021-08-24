@@ -49,9 +49,9 @@ body{
 }
 
 .icon{
-    width: 100px;
+    width: 120px;
     height: 100px;
-    max-width: 100px;
+    max-width: 120px;
     max-height: 100px;
    
     
@@ -118,7 +118,7 @@ body{
       
     }
     .card{
-        width: 100px;
+        width: 120px;
         height: 100px;}
     .icon
 {
